@@ -7,7 +7,7 @@
 Name:           rust-%{crate}
 Version:        3.0.3
 Release:        %autorelease
-Summary:        Varint+zigzag and fixedint integer encoding/decoding (https://developers.google.com/protocol-buffers/docs/encoding)
+Summary:        Varint+zigzag and fixedint integer encoding/decoding
 
 # Upstream license specification: MIT
 License:        MIT
